@@ -1,0 +1,123 @@
+---
+object: card
+id: 2edaeabb-3734-4252-84e7-510a8a694985
+oracle_id: 454a8902-8120-4373-96ee-bbf352b04e8d
+multiverse_ids: []
+name: Hero of Bladehold
+lang: en
+released_at: '2011-02-04'
+uri: https://api.scryfall.com/cards/2edaeabb-3734-4252-84e7-510a8a694985
+scryfall_uri: https://scryfall.com/card/p11/8/hero-of-bladehold?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/e/2edaeabb-3734-4252-84e7-510a8a694985.jpg?1694660484
+  normal: https://cards.scryfall.io/normal/front/2/e/2edaeabb-3734-4252-84e7-510a8a694985.jpg?1694660484
+  large: https://cards.scryfall.io/large/front/2/e/2edaeabb-3734-4252-84e7-510a8a694985.jpg?1694660484
+  png: https://cards.scryfall.io/png/front/2/e/2edaeabb-3734-4252-84e7-510a8a694985.png?1694660484
+  art_crop: https://cards.scryfall.io/art_crop/front/2/e/2edaeabb-3734-4252-84e7-510a8a694985.jpg?1694660484
+  border_crop: https://cards.scryfall.io/border_crop/front/2/e/2edaeabb-3734-4252-84e7-510a8a694985.jpg?1694660484
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Creature — Human Knight
+oracle_text: |-
+  Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+  Whenever Hero of Bladehold attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking.
+power: '3'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Battle Cry
+all_parts:
+- object: related_card
+  id: 8536e50d-81b3-4b1d-9469-22fad35fe145
+  component: combo_piece
+  name: Hero of Bladehold
+  type_line: Creature — Human Knight
+  uri: https://api.scryfall.com/cards/8536e50d-81b3-4b1d-9469-22fad35fe145
+- object: related_card
+  id: 10322962-5b45-438f-9d28-225414721c34
+  component: token
+  name: Soldier
+  type_line: Token Creature — Soldier
+  uri: https://api.scryfall.com/cards/10322962-5b45-438f-9d28-225414721c34
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: true
+reprint: true
+variation: false
+set_id: ba0f80c9-7a21-425b-8a02-cb17c2a50e36
+set: p11
+set_name: Magic Player Rewards 2011
+set_type: promo
+set_uri: https://api.scryfall.com/sets/ba0f80c9-7a21-425b-8a02-cb17c2a50e36
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2edaeabb-3734-4252-84e7-510a8a694985/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A454a8902-8120-4373-96ee-bbf352b04e8d&unique=prints
+collector_number: '8'
+digital: false
+rarity: mythic
+watermark: mirran
+card_back_id: 51e14d8b-6a89-495b-a11c-de3023da122f
+artist: Austin Hsu
+artist_ids:
+- c5e439d8-b3db-4c13-ae93-4e129e3b9478
+illustration_id: 92988936-3284-4656-9eee-74723504b527
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- playerrewards
+edhrec_rank: 1876
+penny_rank: 2534
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hero+of+Bladehold&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hero+of+Bladehold&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hero+of+Bladehold
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Hero+of+Bladehold&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hero+of+Bladehold&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hero+of+Bladehold&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

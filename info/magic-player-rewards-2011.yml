@@ -1,0 +1,17 @@
+---
+object: set
+id: ba0f80c9-7a21-425b-8a02-cb17c2a50e36
+code: p11
+name: Magic Player Rewards 2011
+uri: https://api.scryfall.com/sets/ba0f80c9-7a21-425b-8a02-cb17c2a50e36
+scryfall_uri: https://scryfall.com/sets/p11
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap11&unique=prints
+released_at: '2011-01-01'
+set_type: promo
+card_count: 7
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: mpr
+block: Magic Player Rewards
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
